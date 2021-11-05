@@ -1,4 +1,4 @@
-import { Flex, Text } from '@chakra-ui/react'
+import { Flex } from '@chakra-ui/react'
 
 import { Logo } from './Logo'
 import { NotificationsNav } from './NotificationsNav'
